@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+### Welcome my reading notes pages
 
-You can use the [editor on GitHub](https://github.com/albemedina/Reading-Notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My Names Alberto Medina. Normally like to go by Alex. Very New to the IT world after working in the medical field for a few years. Very eager to learn a develop myself as a soon to be software developer.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
