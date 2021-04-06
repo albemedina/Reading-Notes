@@ -1,6 +1,6 @@
 ### Welcome my reading notes pages
 
-My Names Alberto Medina. Normally like to go by Alex. Very New to the IT world after working in the medical field for a few years. Very eager to learn a develop myself as a soon to be software developer.
+My Names Alberto Medina. Normally like to go by Alex. **Very New** to the IT world after working in the medical field for a few years. Very eager to learn a develop myself as a soon to be software developer.
 
 Take a look at my profile as I will be active on it and getting myself to become more knowledgeable in this field of study.
 
