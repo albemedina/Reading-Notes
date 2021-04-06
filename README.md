@@ -33,10 +33,9 @@ Syntax highlighted code block
 ## 2nd is learning from my peers. Nobody is perfect and there is something that you can learn from your peers that you may not know yourself. Never be afraid to ask questions. You could find the answer your looking for.
 ## 3rd is putting in effort. Life doesn't simply give hand outs. Like a dream body you want you have to put the effort in the gym and outside the gym whether that be your diet, sleep. etc.
 [Link](url) and ![Image](src)
+
 ### Learning about markdown.
 ## 1) Very important that there is spacing if you want something like your bold or italics to respond and work.
-```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
