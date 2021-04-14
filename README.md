@@ -11,7 +11,7 @@ Take a look at my profile as I will be active on it and getting myself to become
 ### 3 Daily reminders for my self growth
 ## 1st reminder in my growth mindset is to try and find the positive in something from this program. It's going to be difficult but if there's a good outlook that i can find I know I will be able to do it.
 ## 2nd is learning from my peers. Nobody is perfect and there is something that you can learn from your peers that you may not know yourself. Never be afraid to ask questions. You could find the answer your looking for.
-## 3rd is putting in effort. Life doesn't simply give hand outs. Like a dream body you want you have to put the effort in the gym and outside the gym whether that be your diet, sleep. etc.
+## 3rd is putting in effort. Life doesn't simply give hand outs. Like a dream body you want you have to put the effort in the gym and outside the gym whether that be your diet, sleep. etc. ~insomina, poor eating, and sloth isn't the answer~
 
 ### 3 Daily reminders for my self growth
 ## 1st reminder in my growth mindset is to try and find the positive in something from this program. It's going to be difficult but if there's a good outlook that i can find I know I will be able to do it.
