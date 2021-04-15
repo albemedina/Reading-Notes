@@ -65,4 +65,10 @@ Changes to be committed:
   ## Push
   git push origin master
   
+  
+   [Home](https://github.com/albemedina/reading-notes)
+ [Growth Mindset](https://github.com/albemedina/reading-notes/blob/main/README.md) &nbsp;
+[Learning Markdown](https://github.com/albemedina/reading-notes/blob/main/learning-markdown.md) &nbsp;
+[Learning HTML](https://github.com/albemedina/reading-notes/blob/main/HtmlNotes.md) &nbsp;
+[Learning Git](https://github.com/albemedina/reading-notes/blob/main/GitandGitHubNotes.md) &nbsp;
  
